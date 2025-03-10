@@ -1,3 +1,75 @@
+# Payment-Assistant
+Desarrollo del sistema Payment Assistant
+
+## Autores / Contribuyentes
+Nicole Tatiana Parra Valverde y Luis Alejandro Masís Pérez 
+
+
+## 1. Cómo realizar un Goal Map
+
+### 1.1. Introducción a la técnica de Goal Mapping
+Un Goal Map es una representación visual que parte de un objetivo principal, desglosa los pasos y actores involucrados para alcanzar dicho objetivo. Se inspira en metodologías como:
+Google Design Sprint: donde se busca, en poco tiempo, definir un problema, idear soluciones, prototipar y validar.
+Design Thinking: un proceso iterativo centrado en el usuario, con etapas de empatía, definición, ideación, prototipado y testeo.
+
+### 1.2. Pasos generales para elaborar un Goal Map
+Definir el objetivo principal: “Hacer que el sistema procese pagos automaticamente”.
+Identificar a los actores: Usuarios finales y APIs bancarias.
+Desglosar los pasos que permiten lograr la meta: por ejemplo “Configurar cuentas bancarias”, “Guardar en el historial”.
+
+## 2. Goal diagram
+
+El objetivo principal se ubica a la derecha.
+A la izquierda se muestran los actores
+
+### 2.1 Diagrama
+
+https://drive.google.com/drive/folders/1m8J57EcBfuz6QU1nOIishyh9yuf8Z_qK?usp=sharing
+
+## 3. Determinación de los estados  para el exito del sistema
+
+A partir del Goal Diagram, identificamos los puntos críticos que garantizan el éxito del sistema:
+
+Agregar pago
+Registro
+Asistente por voz
+Vincular servicios bancarios
+
+
+## 4. Diseño de Pantallas Principales según los Flujos Identificados
+
+Apartir de los puntos criticos, diseñamos flujos para facilitar su uso:
+
+### 4.1 Registro
+
+Flujo 1: Ingresa a la aplicacion que abre en la pestaña home.
+Flujo 2: Al presionar el tab Settings sera enviado a la siguiente pantalla.
+Flujo 3: La pestaña Settings mostrara las diversas opciones para cambiar sus distintas configuraciones asi como acceder con su correo.
+
+### 4.1 Vincular servicios bancarios
+Flujo 1: Ingresa a la aplicacion que abre en la pestaña home.
+Flujo 2: Al presionar el tab Payments sera enviado a la siguiente pantalla.
+Flujo 3: La pestaña Payments le permitira ingresar sus formas de pago.
+
+### 4.2 Agregar pago
+Flujo 1: Ingresa a la aplicacion que abre en la pestaña home.
+Flujo 2: Al presionar el boton Add Payment sera enviado a la siguiente pantalla.
+Flujo 3: La pestaña Add New Payment mostrara diversos campos a rellenar para agregar el pago.
+
+### 4.2 Asistente por voz
+Flujo 1: Ingresa a la aplicacion que abre en la pestaña home.
+Flujo 2: Al presionar el boton del microfono le aparecera el pop up .
+Flujo 3: Al estar en el pop up del asistente podra interactuar con el.
+
+
+
+
+
+
+
+
+
+
 - Investigue como realizar un goal map en referencia a técnicas como google sprint o design thinking
 
 - Proceda a crear un goal diagram ubicando el objetivo principal del sistema lo más a la derecha del diagrama y las entidades involucradas a la izquierda. Rellene el workflow del mapa y diagramelo en alguna herramienta que se lo permita.
