@@ -61,21 +61,6 @@ Flujo 1: Ingresa a la aplicacion que abre en la pestaña home.
 Flujo 2: Al presionar el boton del microfono le aparecera el pop up .
 Flujo 3: Al estar en el pop up del asistente podra interactuar con el.
 
-
-
-
-
-
-
-
-
-
-- Investigue como realizar un goal map en referencia a técnicas como google sprint o design thinking
-
-- Proceda a crear un goal diagram ubicando el objetivo principal del sistema lo más a la derecha del diagrama y las entidades involucradas a la izquierda. Rellene el workflow del mapa y diagramelo en alguna herramienta que se lo permita.
-
-- Determine entonces usando ese mapa cuales son los estados que garantizan el éxito del sistema, aquellos puntos que son más valiosos para lograr el objetivo principal del sistema, los cuales van a hacer que el usuario acepte o no el uso de esta aplicación.
-_________________________________________________
 ## 5. Wireframes
 El diseño de los wireframes, las pantallas generadas y los resultados de los test de usabilidad se almacenan en una carpeta de Google Drive, la cual se compartirá a continuación. La subcarpeta "Wireframes" contiene cuatro imágenes de las pantallas más importantes de la aplicación. "Home", que muestra datos generales, como agergar un pago desde esa sección, los pagos que deben realizarse y demás. "rogramación de pagos" que muestra un listado de los pagos que se van a realizar a futuro. "Agregar Pago" que muestra los datos que deben llenarse para realizar un pago y "AsisteVoz" que muestra cómo se vería la interfaz de esta opción.
 
