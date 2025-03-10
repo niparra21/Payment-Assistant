@@ -76,14 +76,20 @@ Flujo 3: Al estar en el pop up del asistente podra interactuar con el.
 
 - Determine entonces usando ese mapa cuales son los estados que garantizan el éxito del sistema, aquellos puntos que son más valiosos para lograr el objetivo principal del sistema, los cuales van a hacer que el usuario acepte o no el uso de esta aplicación.
 _________________________________________________
+## 6. Wireframes
+El diseño de los wireframes, las pantallas generadas y los resultados de los test de usabilidad se almacenan en una carpeta de Google Drive, la cual se compartirá a continuación. La subcarpeta "Wireframes" contiene cuatro imágenes de las pantallas más importantes de la aplicación. "Home", que muestra datos generales, como agergar un pago desde esa sección, los pagos que deben realizarse y demás. "rogramación de pagos" que muestra un listado de los pagos que se van a realizar a futuro. "Agregar Pago" que muestra los datos que deben llenarse para realizar un pago y "AsisteVoz" que muestra cómo se vería la interfaz de esta opción.
 
-El diseño de los wireframes, las pantallas generadas y los resultados de los test de usabilidad se almacenan en una carpeta de Google Drive, la cual se compartirá a continuación. Además, se comparte un enlace a lo que sería la aplicación "funcional" para observar mejor las pantallas generadas.
-Debido a dificultades con la herramienta utilizada para las pruebas de usabilidad (Loop11), no permite descargar los videos generados, entonces no se adjuntan en este documento, sin embargo, pueden mostrarse en la revisión desde el sitio web de la herramienta sin problema alguno.
+## 7. Pantallas generadas con IA
+La subcarpeta "Pantallas" muestra imáganes de las pantallas generadas por la herramienta de IA Loveable, la cual se utilizó para realizar esta tarea con el lenguaje indicado en el primer entregable (React Native). Son siete imágenes, las cuales completan las funciones que se muestran en lso wireframes.
 
-En la carpeta de Google Drive se encuentran tres subcarpetas, "Wireframes", "Pantallas" y "Test de usabilidad". Las primeras dos contienen imágenes de las pantallas creadas en el formato que se indica, las primeras son wireframes en gris, las otras son generadas en el lenguaje descrito en el primer entregable (React Native) y se utilizó la herramienta de IA Loveable para generar el código. 
-La carpeta de "Test de usabilidad" contiene un documento PDF, en el cual se habla de qué trataba la prueba y los resultados que arrojó la herramienta utilizada. Como se menciona, las evidencias de que estas pruebas fueron realizadas por personas reales están almacenadas en el sitio web de la herramienta utilizada, sin embargo, no pueden adjuntarse de alguna manera a este documento o a algún servidor externo. Las evidencias siguen estando disponibles en el sitio web.
-Además, se comparte un enlace a las pruebas de usabilidad, las cuales no son las finales, ya que se seleccionó el proceso de grabar a la persona y también la pantalla, por lo que si solo se desea ver cómo funcioaba o se veía la prueba, este enlace sirve perfectamente.
+Además, se comparte un enlace a lo que sería la aplicación "funcional" para observar mejor las pantallas generadas.
 
+## 8. Pruebas de usabilidad
+La carpeta de "Test de usabilidad" contiene un documento PDF, en el cual se habla de qué trataba la prueba y los resultados que arrojó la herramienta utilizada. Debido a dificultades con la herramienta utilizada para las pruebas de usabilidad (Loop11), no permite descargar los videos generados. La evidencia de que estas pruebas fueron realizadas por personas reales están almacenadas en el sitio web de la herramienta utilizada, sin embargo, no pueden adjuntarse de alguna manera a este documento o a algún servidor externo. Las evidencias siguen estando disponibles en el sitio web.
+
+Además, se comparte un enlace a las pruebas de usabilidad, las cuales no son las finales, ya que se seleccionó el proceso de grabar a la persona y también la pantalla, por lo que si solo se desea ver cómo funciona o se veía la prueba, este enlace sirve perfectamente.
+
+## 9. Enlaces
 Enlace a la carpeta de Google Drive:
 https://drive.google.com/drive/folders/1m8J57EcBfuz6QU1nOIishyh9yuf8Z_qK?usp=sharing
 
